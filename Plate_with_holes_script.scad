@@ -1,5 +1,5 @@
 //****************************************************************************//
-// Section 1 - pramble                                                        //
+// Section 1 - preamble                                                        //
 //****************************************************************************//
 // This OpenSCAD script create the plate with rounded edges and holes.
 //
